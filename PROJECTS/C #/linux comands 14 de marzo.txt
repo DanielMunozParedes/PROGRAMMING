@@ -1,0 +1,44 @@
+nl (numbel of lines)
+
+sudo nl file
+
+sudo head -10 file (prints head of the file first 10 lines)
+
+sudo tail file (end)
+
+
+
+using grep to serach for specifics
+sudo cat snort.conf | grep MySQL
+
+
+
+Using sed to find and replace keywords or phrases
+The s command performs the search: you first give the term you are searching for (mysql) and then the term you want to replace it with (MySQL), separated by a slash (/). The g command tells Linux that you want the replacement performed globally. Then the result issaved to a new file named snort2.conf.
+sed s/mysql/MySQL/g /etc/snort/snort.conf > snort2.conf
+
+(>) to especify to a new file
+
+
+OK THIS IS NOT LINUX BUT IS LINUX REALTED ABOUT WSL
+
+with a win 11 and in powershell u install 
+wsl --install
+wsl --update
+
+reboot the pc
+
+then just install the idstros you need
+
+wsl --list --online
+
+
+especify the distro
+
+wsl --install -d kali-linux
+
+
+then reboot
+wsl -d kali-linux
+
+
