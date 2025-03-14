@@ -1,0 +1,13 @@
+PURPOSED BY "nRikke
+
+Se llama Distancia de Levenshtein, distancia de edición, o distancia entre palabras, 
+al número mínimo de operaciones requeridas para transformar una cadena de caracteres en otra.
+ Se entiende por operación, bien una inserción, eliminación o la sustitución de un carácter. 
+ Esta distancia recibe ese nombre en honor al científico ruso Vladimir Levenshtein, quien se ocupara de esta distancia en 1965. 
+ Es útil en programas que determinan cuán similares son dos cadenas de caracteres, como es el caso de los correctores de ortografía.
+
+Por ejemplo:
+'casa' y 'cosa' difieren en 1.
+'caza' y 'cazar' difieren en 1.
+'cazador' y 'cazar' difieren en 2.
+'potable' y 'portable' difieren en 1.

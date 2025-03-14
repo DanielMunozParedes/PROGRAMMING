@@ -1,0 +1,17 @@
+PROPOSED BY "Fernando Pelliccioni"
+
+Enunciado
+Escribir la función
+
+minelement1st_2nd(S)
+
+que retorne el par de elementos (f, s) dado que f sea el menor elemento de la secuencia y s sea el segundo menor elemento de la secuencia.
+
+Escribir la función en dos variantes. La primera es usando una Relación. La segunda variante usando la relación por defecto.
+
+Escribirlo de la forma más eficiente posible, describiendo su complejidad en tiempo y espacio.
+
+Relacionado con los desafíos:
+http://www.solveet.com/exercises/Min-y-Max/244
+http://www.solveet.com/exercises/Min-y-Max-de-una-secuencia/251
+http://www.solveet.com/exercises/MinMax-de-una-secuencia/252

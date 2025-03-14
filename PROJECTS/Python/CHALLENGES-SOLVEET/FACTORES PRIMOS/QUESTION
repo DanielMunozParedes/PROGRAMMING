@@ -1,0 +1,25 @@
+"""
+PURPOSED BY adr
+
+Obtener factores primos al descomponer un número.
+
+Ejemplos:
+----------------------------------
+Descomponer 12
+
+12|2
+6 |2
+3 |3
+1 |
+
+Obtener: 2,2,3
+----------------------------------
+Descomponer 8405
+
+8405|5
+1681|41
+41 |41
+1 |
+
+Obtener: 5,41,41
+"""

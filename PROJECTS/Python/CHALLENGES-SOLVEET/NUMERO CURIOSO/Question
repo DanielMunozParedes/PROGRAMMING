@@ -1,0 +1,15 @@
+"""
+PORPUSED BY "nRikee"
+
+Este es un desafío matemático de la Real Sociedad Matemática Española. Y dice así:
+
+
+El equipo que preparamos los desafíos matemáticos hemos decidido abonarnos durante todo el año a un número de la Lotería. Para elegir ese número, que debe estar comprendido entre el 0 y el 99.999, pusimos como condición que tuviese las cinco cifras distintas y que, además, cumpliese alguna otra propiedad interesante. Finalmente hemos conseguido un número que tiene la siguiente propiedad: si numeramos los meses del año del 1 al 12, en cualquier mes del año ocurre que al restar a nuestro número de lotería el número del mes anterior, el resultado es divisible por el número del mes en el que estemos. Y esto sucede para cada uno de los meses del año.
+
+Es decir, si llamamos L a nuestro número, tenemos por ejemplo que en marzo L-2 es divisible entre 3 y en diciembre L-11 es divisible entre 12.
+
+El reto que os planteamos es que nos digáis a qué número de Lotería estamos abonados.
+
+Fuente
+
+"""
